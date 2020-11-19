@@ -1,5 +1,5 @@
 # Chat-Box
-simple chat box using Javascript
+A simple chat bot built using JavaScript and Firebase
 
 Operate this Chat-Box by doing this Simple Steps
 
